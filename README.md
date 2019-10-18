@@ -2,9 +2,7 @@
 <img src="python-logo.png">
 
 
-# Notes based on LinkedIn/Lynda Python 3 Essential Training (pre 2018 version)
-<font color="red">Note:</font>: The course has been updated which you can view here http://bit.ly/2MsGkWv
-<a id='top'></a>
+#Python 3 Notes and Snippets
 
 Table of Contents (chapters)
 * [4. General Syntax](#section4)

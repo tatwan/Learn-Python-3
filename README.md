@@ -2,7 +2,7 @@
 <img src="python-logo.png">
 
 
-#Python 3 Notes and Snippets
+# Python 3 Notes and Snippets
 
 Table of Contents (chapters)
 * [4. General Syntax](#section4)
